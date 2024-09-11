@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>RAB_Module04_Review_0624</Name>
+    <Assembly>RAB_Module04_Review_0624\RAB_Module04_Review_0624.dll</Assembly>
+    <FullClassName>RAB_Module04_Review_0624.App</FullClassName>
+    <ClientId>a086d16c-491c-4907-98a9-7dc45fc622e8</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+</RevitAddIns>
